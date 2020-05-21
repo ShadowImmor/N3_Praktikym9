@@ -1,0 +1,11 @@
+Computer is a device that processes information with astonishing speed and accuracy. Computers process information by helping to create it and by displaying it, storing it, reorganizing it, calculating with it, and communicating it to other computers. Computers can process numbers, words, still pictures, moving pictures, and sounds. The most powerful computers can perform tens of billions of calculations per second.
+The computer has changed the way we work, learn, communicate, and play. Virtually every kind of organization throughout the world conducts business with computers. Students, teachers, and research scientists use the computer as a learning tool. Millions of individuals and organizations communicate with one another over a network of computers called the Internet. Computer games entertain people of all ages.
+Almost all computers are electronic digital computers. They are electronic
+in their use of electric current (a flow of electric charge) to carry information.
+They are digital in that they process information as units of electric charge
+representing numbers. The word digital means having to do with numbers.
+To enable a computer to process information that is not numerical-such as
+words, pictures, or sounds-the computer or some other device must first digitize
+that information. A device digitizes information by translating it into charges
+that represent numbers. After the computer processes the digitized information
+by working with the charges, the computer or a device connected to the computer translates its results back into their original form. 
